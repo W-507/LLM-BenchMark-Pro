@@ -1,0 +1,10 @@
+benchmark_name: "Demo Test (Mock Data)"
+models:
+  - "mock/gpt-4o"
+  - "mock/claude-3-5-sonnet"
+  - "mock/gemini-1.5-pro"
+prompts:
+  - "Explain quantum computing in one sentence."
+  - "Write a python function to calculate fibonacci numbers."
+iterations: 1
+max_tokens: 100

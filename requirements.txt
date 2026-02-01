@@ -1,0 +1,12 @@
+litellm
+pandas
+numpy
+streamlit
+ragas
+langchain
+wandb
+python-dotenv
+pyyaml
+openpyxl
+reportlab
+altair

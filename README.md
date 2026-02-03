@@ -52,6 +52,7 @@ To try the pipeline with simulated mock models (great for testing the UI):
 ```bash
 python main.py --config config/demo_test.yaml
 ```
+<img width="1920" height="869" alt="chrome_vfWLbtyZOF" src="https://github.com/user-attachments/assets/f86db5b4-6e52-4a5a-a79c-385a905e9dc3" />
 
 ### Run Dashboard
 To visualize the results and access reports:
